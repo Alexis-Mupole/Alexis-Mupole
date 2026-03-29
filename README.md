@@ -1,6 +1,6 @@
 # Hi there, I'm Mupole Uwizeye Alexis 👋 
 
-### 🚀 Student | Full-Stack Developer | Cybersecurity Enthusiast
+### 🚀 Student | Web Developer | Cybersecurity Enthusiast
 
 I am a driven dual-degree student with a passion for building functional, real-world solutions. My philosophy is **"learning by doing"**, which led me to develop local-first applications that prioritize data privacy and user efficiency.
 
