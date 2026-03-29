@@ -31,10 +31,7 @@ An AI-powered farming advisor tool designed to support smallholder farmers with 
 
 ---
 
-### 📊 GitHub Stats
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis-Mupole&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Mupole&layout=compact&theme=tokyonight)
 ---
 
 ### 🌐 Connect with Me
