@@ -35,7 +35,7 @@ An AI-powered farming advisor tool designed to support smallholder farmers with 
 ---
 
 ### 🌐 Connect with Me
-* **Portfolio:** [alexismupole.vercel.app](https://alexismupole.vercel.app/)
+* **Portfolio:** [alexismupole.dev](https://alexismupole.dev/)
 * **Languages:** Français | English | Kiswahili | Lingala
 
 *"We prepare students for productive lives of service through technology."*
