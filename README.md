@@ -1,6 +1,6 @@
 # Hi there, I'm Mupole Uwizeye Alexis 👋
 
-### 🚀 Student | Full-Stack Developer | AI Builder | Cybersecurity Enthusiast
+### 🚀 Student | Developer | AI Builder | Cybersecurity Enthusiast
 
 I am a driven dual-degree student who enjoys turning ideas into practical, privacy-conscious software. My work spans **web development, mobile applications, artificial intelligence, cybersecurity, offline-first systems, education, agriculture, healthcare, and business tools**.
 
